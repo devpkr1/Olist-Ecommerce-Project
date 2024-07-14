@@ -44,5 +44,5 @@ The analysis section covers the following key areas:
 The analysis provided several insights that can help Olist Store improve its business strategies. Key takeaways include understanding customer purchase patterns, identifying high-performing products, and leveraging customer feedback to enhance service quality.
 
 ## References
-- [Comprehensive Analysis of Olist Store - Blog Post](https://analytixedge.blogspot.com/2024/06/comprehensive-analysis-of-olist-store.html)
-- [Kaggle Olist Store Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+- Complete Project Link - [Comprehensive Analysis of Olist Store - Blog Post](https://analytixedge.blogspot.com/2024/06/comprehensive-analysis-of-olist-store.html)
+- Dataset Link - [Kaggle Olist Store Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce)
