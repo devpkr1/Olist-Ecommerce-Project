@@ -40,6 +40,8 @@ The analysis section covers the following key areas:
 - Product performance analysis
 - Customer review analysis
 
+**Interactive Report:-** [Link](https://mavenanalytics.io/project/28656)
+
 ## Conclusion
 The analysis provided several insights that can help Olist Store improve its business strategies. Key takeaways include understanding customer purchase patterns, identifying high-performing products, and leveraging customer feedback to enhance service quality.
 
